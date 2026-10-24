@@ -1,0 +1,6 @@
+{
+  "name": "StudyMate AI — Your Personal Smart Learning Assistant",
+  "description": "An interactive educational platform featuring AI study planning, practice quizzes, smart learning assistance, resource library, and progress tracking for students.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
